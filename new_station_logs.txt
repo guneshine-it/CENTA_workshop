@@ -1,0 +1,4 @@
+rain,clear,wind
+clear,clear,rain
+wind,wind,clear
+rain,rain,clear

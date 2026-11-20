@@ -1,0 +1,4 @@
+STN0001:rain,clear,wind
+STN0001:clear,clear,rain
+STN0001:wind,wind,clear
+STN0001:rain,rain,clear
